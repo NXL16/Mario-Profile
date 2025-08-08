@@ -38,7 +38,7 @@ header.fixed {
 .header .body {
     display: flex;
     align-items: center;
-    padding: 33px 62px 8px;
+    padding: 30px 26px 8px;
 }
 
 .nav {
@@ -60,7 +60,6 @@ header.fixed {
     margin-left: auto;
 }
 
-/* CSS bổ sung cho hamburger và responsive */
 .hamburger {
     display: none; /* Ẩn ở desktop */
     flex-direction: column;
